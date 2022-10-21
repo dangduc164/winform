@@ -1,0 +1,5 @@
+G:\bt c\hoten\hoten\bin\Debug\hoten.exe.config
+G:\bt c\hoten\hoten\bin\Debug\hoten.exe
+G:\bt c\hoten\hoten\bin\Debug\hoten.pdb
+G:\bt c\hoten\hoten\obj\Debug\hoten.exe
+G:\bt c\hoten\hoten\obj\Debug\hoten.pdb

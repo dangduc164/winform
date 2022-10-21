@@ -1,0 +1,9 @@
+G:\bt c\winForm_btvn1\winForm_btvn1\bin\Debug\winForm_btvn1.exe.config
+G:\bt c\winForm_btvn1\winForm_btvn1\bin\Debug\winForm_btvn1.exe
+G:\bt c\winForm_btvn1\winForm_btvn1\bin\Debug\winForm_btvn1.pdb
+G:\bt c\winForm_btvn1\winForm_btvn1\obj\Debug\winForm_btvn1.csprojResolveAssemblyReference.cache
+G:\bt c\winForm_btvn1\winForm_btvn1\obj\Debug\winForm_btvn1.bt1.resources
+G:\bt c\winForm_btvn1\winForm_btvn1\obj\Debug\winForm_btvn1.Properties.Resources.resources
+G:\bt c\winForm_btvn1\winForm_btvn1\obj\Debug\winForm_btvn1.csproj.GenerateResource.Cache
+G:\bt c\winForm_btvn1\winForm_btvn1\obj\Debug\winForm_btvn1.exe
+G:\bt c\winForm_btvn1\winForm_btvn1\obj\Debug\winForm_btvn1.pdb

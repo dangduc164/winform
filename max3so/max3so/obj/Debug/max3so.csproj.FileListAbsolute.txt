@@ -1,0 +1,6 @@
+G:\bt c\max3so\max3so\bin\Debug\max3so.exe.config
+G:\bt c\max3so\max3so\bin\Debug\max3so.exe
+G:\bt c\max3so\max3so\bin\Debug\max3so.pdb
+G:\bt c\max3so\max3so\obj\Debug\max3so.exe
+G:\bt c\max3so\max3so\obj\Debug\max3so.pdb
+G:\bt c\max3so\max3so\obj\Debug\max3so.csprojResolveAssemblyReference.cache

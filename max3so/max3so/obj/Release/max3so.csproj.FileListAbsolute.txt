@@ -1,0 +1,12 @@
+G:\bt c\max3so\max3so\bin\Release\max3so.exe.config
+G:\bt c\max3so\max3so\bin\Release\max3so.exe
+G:\bt c\max3so\max3so\bin\Release\max3so.pdb
+G:\bt c\max3so\max3so\obj\Release\max3so.exe
+G:\bt c\max3so\max3so\obj\Release\max3so.pdb
+G:\bt c\max3so\max3so\obj\Release\max3so.csprojResolveAssemblyReference.cache
+D:\CĐBK\winform\max3so\max3so\bin\Release\max3so.exe.config
+D:\CĐBK\winform\max3so\max3so\bin\Release\max3so.exe
+D:\CĐBK\winform\max3so\max3so\bin\Release\max3so.pdb
+D:\CĐBK\winform\max3so\max3so\obj\Release\max3so.csprojResolveAssemblyReference.cache
+D:\CĐBK\winform\max3so\max3so\obj\Release\max3so.exe
+D:\CĐBK\winform\max3so\max3so\obj\Release\max3so.pdb

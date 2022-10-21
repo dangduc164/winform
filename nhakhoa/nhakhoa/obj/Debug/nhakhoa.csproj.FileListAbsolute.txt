@@ -1,0 +1,10 @@
+G:\bt c\nhakhoa\nhakhoa\bin\Debug\nhakhoa.exe.config
+G:\winform\nhakhoa\nhakhoa\bin\Debug\nhakhoa.exe.config
+G:\winform\nhakhoa\nhakhoa\bin\Debug\nhakhoa.exe
+G:\winform\nhakhoa\nhakhoa\bin\Debug\nhakhoa.pdb
+G:\winform\nhakhoa\nhakhoa\obj\Debug\nhakhoa.csprojResolveAssemblyReference.cache
+G:\winform\nhakhoa\nhakhoa\obj\Debug\nhakhoa.Form1.resources
+G:\winform\nhakhoa\nhakhoa\obj\Debug\nhakhoa.Properties.Resources.resources
+G:\winform\nhakhoa\nhakhoa\obj\Debug\nhakhoa.csproj.GenerateResource.Cache
+G:\winform\nhakhoa\nhakhoa\obj\Debug\nhakhoa.exe
+G:\winform\nhakhoa\nhakhoa\obj\Debug\nhakhoa.pdb

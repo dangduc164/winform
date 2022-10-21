@@ -1,0 +1,32 @@
+G:\bt c\quanlibanhang\quanlibanhang\bin\Debug\quanlibanhang.exe.config
+G:\bt c\quanlibanhang\quanlibanhang\bin\Debug\quanlibanhang.exe
+G:\bt c\quanlibanhang\quanlibanhang\bin\Debug\quanlibanhang.pdb
+G:\bt c\quanlibanhang\quanlibanhang\bin\Debug\EntityFramework.dll
+G:\bt c\quanlibanhang\quanlibanhang\bin\Debug\EntityFramework.SqlServer.dll
+G:\bt c\quanlibanhang\quanlibanhang\bin\Debug\EntityFramework.xml
+G:\bt c\quanlibanhang\quanlibanhang\bin\Debug\EntityFramework.SqlServer.xml
+G:\bt c\quanlibanhang\quanlibanhang\obj\Debug\quanlibanhang.csprojResolveAssemblyReference.cache
+G:\bt c\quanlibanhang\quanlibanhang\obj\Debug\quanlibanhang.Form1.resources
+G:\bt c\quanlibanhang\quanlibanhang\obj\Debug\quanlibanhang.Properties.Resources.resources
+G:\bt c\quanlibanhang\quanlibanhang\obj\Debug\quanlibanhang.csproj.GenerateResource.Cache
+G:\bt c\quanlibanhang\quanlibanhang\obj\Debug\quanlibanhang.exe
+G:\bt c\quanlibanhang\quanlibanhang\obj\Debug\quanlibanhang.pdb
+G:\winform\quanlibanhang\quanlibanhang\bin\Debug\quanlibanhang.exe.config
+G:\winform\quanlibanhang\quanlibanhang\obj\Debug\quanlibanhang.exe
+G:\winform\quanlibanhang\quanlibanhang\obj\Debug\quanlibanhang.pdb
+D:\winform\quanlibanhang\quanlibanhang\bin\Debug\quanlibanhang.exe.config
+D:\winform\quanlibanhang\quanlibanhang\obj\Debug\quanlibanhang.exe
+D:\winform\quanlibanhang\quanlibanhang\obj\Debug\quanlibanhang.pdb
+D:\CĐBK\winform\quanlibanhang\quanlibanhang\bin\Debug\quanlibanhang.exe.config
+D:\CĐBK\winform\quanlibanhang\quanlibanhang\obj\Debug\quanlibanhang.exe
+D:\CĐBK\winform\quanlibanhang\quanlibanhang\obj\Debug\quanlibanhang.pdb
+D:\CĐBK\winform\quanlibanhang\quanlibanhang\bin\Debug\quanlibanhang.exe
+D:\CĐBK\winform\quanlibanhang\quanlibanhang\bin\Debug\quanlibanhang.pdb
+D:\CĐBK\winform\quanlibanhang\quanlibanhang\bin\Debug\EntityFramework.dll
+D:\CĐBK\winform\quanlibanhang\quanlibanhang\bin\Debug\EntityFramework.SqlServer.dll
+D:\CĐBK\winform\quanlibanhang\quanlibanhang\bin\Debug\EntityFramework.xml
+D:\CĐBK\winform\quanlibanhang\quanlibanhang\bin\Debug\EntityFramework.SqlServer.xml
+D:\CĐBK\winform\quanlibanhang\quanlibanhang\obj\Debug\quanlibanhang.csprojResolveAssemblyReference.cache
+D:\CĐBK\winform\quanlibanhang\quanlibanhang\obj\Debug\quanlibanhang.Form1.resources
+D:\CĐBK\winform\quanlibanhang\quanlibanhang\obj\Debug\quanlibanhang.Properties.Resources.resources
+D:\CĐBK\winform\quanlibanhang\quanlibanhang\obj\Debug\quanlibanhang.csproj.GenerateResource.Cache

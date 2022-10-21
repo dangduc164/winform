@@ -1,0 +1,18 @@
+G:\bt c\winForm_bk\winForm_bk\bin\Debug\winForm_bk.exe.config
+G:\bt c\winForm_bk\winForm_bk\bin\Debug\winForm_bk.exe
+G:\bt c\winForm_bk\winForm_bk\bin\Debug\winForm_bk.pdb
+G:\bt c\winForm_bk\winForm_bk\obj\Debug\winForm_bk.csprojResolveAssemblyReference.cache
+G:\bt c\winForm_bk\winForm_bk\obj\Debug\winForm_bk.Properties.Resources.resources
+G:\bt c\winForm_bk\winForm_bk\obj\Debug\winForm_bk.csproj.GenerateResource.Cache
+G:\bt c\winForm_bk\winForm_bk\obj\Debug\winForm_bk.exe
+G:\bt c\winForm_bk\winForm_bk\obj\Debug\winForm_bk.pdb
+G:\bt c\winForm_bk\winForm_bk\obj\Debug\winForm_bk.Form1.resources
+D:\CĐBK\winform\winForm_bk\winForm_bk\bin\Debug\winForm_bk.exe.config
+D:\CĐBK\winform\winForm_bk\winForm_bk\obj\Debug\winForm_bk.exe
+D:\CĐBK\winform\winForm_bk\winForm_bk\obj\Debug\winForm_bk.pdb
+D:\CĐBK\winform\winForm_bk\winForm_bk\bin\Debug\winForm_bk.exe
+D:\CĐBK\winform\winForm_bk\winForm_bk\bin\Debug\winForm_bk.pdb
+D:\CĐBK\winform\winForm_bk\winForm_bk\obj\Debug\winForm_bk.csprojResolveAssemblyReference.cache
+D:\CĐBK\winform\winForm_bk\winForm_bk\obj\Debug\winForm_bk.Form1.resources
+D:\CĐBK\winform\winForm_bk\winForm_bk\obj\Debug\winForm_bk.Properties.Resources.resources
+D:\CĐBK\winform\winForm_bk\winForm_bk\obj\Debug\winForm_bk.csproj.GenerateResource.Cache

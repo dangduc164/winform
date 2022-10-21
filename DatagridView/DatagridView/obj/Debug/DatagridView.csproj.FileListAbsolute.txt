@@ -1,0 +1,18 @@
+G:\bt c\DatagridView\DatagridView\bin\Debug\DatagridView.exe.config
+G:\bt c\DatagridView\DatagridView\bin\Debug\DatagridView.exe
+G:\bt c\DatagridView\DatagridView\bin\Debug\DatagridView.pdb
+G:\bt c\DatagridView\DatagridView\obj\Debug\DatagridView.csprojResolveAssemblyReference.cache
+G:\bt c\DatagridView\DatagridView\obj\Debug\DatagridView.Form1.resources
+G:\bt c\DatagridView\DatagridView\obj\Debug\DatagridView.Properties.Resources.resources
+G:\bt c\DatagridView\DatagridView\obj\Debug\DatagridView.csproj.GenerateResource.Cache
+G:\bt c\DatagridView\DatagridView\obj\Debug\DatagridView.exe
+G:\bt c\DatagridView\DatagridView\obj\Debug\DatagridView.pdb
+D:\CĐBK\winform\DatagridView\DatagridView\bin\Debug\DatagridView.exe.config
+D:\CĐBK\winform\DatagridView\DatagridView\obj\Debug\DatagridView.exe
+D:\CĐBK\winform\DatagridView\DatagridView\obj\Debug\DatagridView.pdb
+D:\CĐBK\winform\DatagridView\DatagridView\bin\Debug\DatagridView.exe
+D:\CĐBK\winform\DatagridView\DatagridView\bin\Debug\DatagridView.pdb
+D:\CĐBK\winform\DatagridView\DatagridView\obj\Debug\DatagridView.csprojResolveAssemblyReference.cache
+D:\CĐBK\winform\DatagridView\DatagridView\obj\Debug\DatagridView.Form1.resources
+D:\CĐBK\winform\DatagridView\DatagridView\obj\Debug\DatagridView.Properties.Resources.resources
+D:\CĐBK\winform\DatagridView\DatagridView\obj\Debug\DatagridView.csproj.GenerateResource.Cache
